@@ -1,0 +1,11 @@
+name = "lively-boat-43b8"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[ai]
+binding = "AI"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "taskdb"
+database_id = "be12e270-56b8-4b77-8c37-e353be99c2eb"
